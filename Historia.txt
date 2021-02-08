@@ -1,7 +1,9 @@
-Esta es la historia de Gerardo Sánchez
+﻿Esta es la historia de Gerardo Sánchez
 
 Gerardo Sánchez tiene 28 años y nació en Mexico
 
 Gerardo Laboral tiene 20 años y nacio en MX
+
+Gerardo colaboral a este proyecto Open Source con un Fork.
 
 Mañana nos enfocaremos en su vida laboral.
