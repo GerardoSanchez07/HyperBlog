@@ -14,4 +14,8 @@ Master 1 (cambio hecho para pruebas con rebase)
 
 Master 2
 
+----------segundo intento con rebase----------------
+
+Master 1
+
 Mañana nos enfocaremos en su vida laboral.
