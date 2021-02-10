@@ -6,4 +6,6 @@ Gerardo Laboral tiene 20 años y nacio en MX
 
 Gerardo colaboral a este proyecto Open Source con un Fork.
 
+Master 1 (cambio hecho para pruebas con rebase)
+
 Mañana nos enfocaremos en su vida laboral.
